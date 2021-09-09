@@ -17,4 +17,3 @@
             img_face_3.jpg
             img_face_4.jpg
             img_face_5.jpg
-h1 ad1
