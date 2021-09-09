@@ -21,3 +21,4 @@
 >             img_face_5.jpg 
 ```
 ## 设计图
+![设计图](https://github.com/YCYAX/Github-figure-bed/blob/main/student.png)
