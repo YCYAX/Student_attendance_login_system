@@ -12,8 +12,8 @@
 > |  face_reco_from_camera.py # 人脸动态识别  
 > │  Login.py # 主登陆系统  
 > │  
-> └─data_faces_from_camera  
->     └─person_1  
+> └─data_faces_from_camera # 人脸存放  
+>     └─person_1 # 人  
 >             img_face_1.jpg  
 >             img_face_2.jpg  
 >             img_face_3.jpg  
