@@ -1,5 +1,6 @@
 # Student_attendance_login_system
 学生考勤管理系统
+[人脸识别部分参考此项目,感谢分享](https://github.com/coneypo/Dlib_face_recognition_from_camera)
 ## 文件树
 ```
 > │  1.csv # 学生信息储存  
@@ -19,3 +20,4 @@
 >             img_face_4.jpg  
 >             img_face_5.jpg 
 ```
+## 设计图
